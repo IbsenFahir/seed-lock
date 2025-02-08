@@ -8,7 +8,7 @@ A secure tool to encrypt and safely store your cryptocurrency wallet seed phrase
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/wallet-words-encryptor
+git clone https://github.com/IbsenFahir/wallet-words-encryptor.git
 cd wallet-words-encryptor
 ```
 
