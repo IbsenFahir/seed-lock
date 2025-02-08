@@ -1,0 +1,10 @@
+{
+  "name": "wallet-encryptor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "readline": "^1.3.0"
+  }
+}
