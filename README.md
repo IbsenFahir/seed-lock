@@ -1,4 +1,4 @@
-# 🔐 Wallet Words Encryptor
+# 🔐 Seed Lock
 
 A secure tool to encrypt and safely store your cryptocurrency wallet seed phrases. This allows you to backup your wallet words in cloud services or note-taking apps by encrypting them with a password of your choice.
 
@@ -8,8 +8,8 @@ A secure tool to encrypt and safely store your cryptocurrency wallet seed phrase
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/IbsenFahir/wallet-words-encryptor.git
-cd wallet-words-encryptor
+git clone https://github.com/IbsenFahir/seed-lock.git
+cd seed-lock
 ```
 
 3. Install dependencies:
